@@ -8,10 +8,13 @@ cout << "Data Pada Index 1 = " << aku[1] << endl;
 aku[1] = 200;
 cout << "Data pada index 1 = " << aku[1] << endl;
 
-cout << "Data Index ke 0 - ";
-cin >> aku[0];
-cout << "Data Index ke 1 - ";
-cin >> aku[1];
-
 int kamu[5];
+cout << "Data Index ke 0 - ";
+cin >> kamu[0];
+cout << "Data Index ke 1 - ";
+cin >> kamu[1];
+
+cout << "Data ke 1 = " << kamu[0] << endl;
+cout << "Data ke 2 = " << kamu[1] << endl;
+
 }

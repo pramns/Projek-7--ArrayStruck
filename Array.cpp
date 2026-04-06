@@ -10,6 +10,8 @@ cout << "Data pada index 1 = " << aku[1] << endl;
 
 cout << "Data Index ke 0 - ";
 cin >> aku[0];
+cout << "Data Index ke 1 - ";
+cin >> aku[1];
 
-
+int kamu[5];
 }
